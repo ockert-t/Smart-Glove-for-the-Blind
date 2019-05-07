@@ -10,11 +10,11 @@ Mount the arduino on the top of the glove
 # Components:
  Ultrasonic sensor
  <br>
- buzzer
+ Buzzer
  <br>
- redLED
+ RedLED
  <br>
- greenLED
+ GreenLED
  <br>
 
 # Contact:
